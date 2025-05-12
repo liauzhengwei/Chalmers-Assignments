@@ -1,0 +1,1 @@
+- The assignment for this course can be found (here)
