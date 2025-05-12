@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KpR0XJGAUEw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liauz\\.nuget\\packages\\scottplot\\4.1.36\\scottplot.4.1.36.nupkg.sha512",
+    "C:\\Users\\liauz\\.nuget\\packages\\scottplot.winforms\\4.1.36\\scottplot.winforms.4.1.36.nupkg.sha512",
+    "C:\\Users\\liauz\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\liauz\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\liauz\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

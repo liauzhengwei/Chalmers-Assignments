@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29696FDD-508F-4619-9D89-EDFC8CD013F6}|FirstExample\\FirstExample.csproj|C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\firstexample\\firstexamplemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29696FDD-508F-4619-9D89-EDFC8CD013F6}|FirstExample\\FirstExample.csproj|solutionrelative:firstexample\\firstexamplemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29696FDD-508F-4619-9D89-EDFC8CD013F6}|FirstExample\\FirstExample.csproj|C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\firstexample\\firstexamplemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29696FDD-508F-4619-9D89-EDFC8CD013F6}|FirstExample\\FirstExample.csproj|solutionrelative:firstexample\\firstexamplemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FirstExample||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29696FDD-508F-4619-9D89-EDFC8CD013F6}|FirstExample\\FirstExample.csproj|c:\\data\\chalmers work\\teaching\\intelligent agents, 2025\\src\\examples\\examplessolution\\firstexample\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstExample",
+              "DocumentMoniker": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\FirstExample\\FirstExample.csproj",
+              "RelativeDocumentMoniker": "FirstExample\\FirstExample.csproj",
+              "ToolTip": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\FirstExample\\FirstExample.csproj",
+              "RelativeToolTip": "FirstExample\\FirstExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T04:46:43.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstExampleMainForm.cs",
+              "DocumentMoniker": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\FirstExample\\FirstExampleMainForm.cs",
+              "RelativeDocumentMoniker": "FirstExample\\FirstExampleMainForm.cs",
+              "ToolTip": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\FirstExample\\FirstExampleMainForm.cs",
+              "RelativeToolTip": "FirstExample\\FirstExampleMainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:34:30.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstExampleMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\FirstExample\\FirstExampleMainForm.cs",
+              "RelativeDocumentMoniker": "FirstExample\\FirstExampleMainForm.cs",
+              "ToolTip": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Examples\\ExamplesSolution\\FirstExample\\FirstExampleMainForm.cs [Design]",
+              "RelativeToolTip": "FirstExample\\FirstExampleMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:24:33.596Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

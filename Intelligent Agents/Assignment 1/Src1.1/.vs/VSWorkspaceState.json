@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Src1.1",
+    "\\Src1.1\\POSTaggingSolution",
+    "\\Src1.1\\POSTaggingSolution\\Libraries",
+    "\\Src1.1\\POSTaggingSolution\\Libraries\\NLP",
+    "\\Src1.1\\POSTaggingSolution\\Libraries\\NLP\\POS",
+    "\\Src1.1\\POSTaggingSolution\\Libraries\\NLP\\POS\\Taggers",
+    "\\Src1.1\\POSTaggingSolution\\POSTaggingApplication"
+  ],
+  "SelectedNode": "\\Src1.1\\POSTaggingSolution\\POSTaggingApplication\\MainForm.cs",
+  "PreviewInSolutionExplorer": false
+}

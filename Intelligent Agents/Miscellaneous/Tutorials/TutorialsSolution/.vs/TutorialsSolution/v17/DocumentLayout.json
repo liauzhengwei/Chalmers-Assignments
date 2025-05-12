@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Tutorials\\TutorialsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BF6C4-67E6-4490-B43D-81B230876045}|Tutorial1Application\\Tutorial1Application.csproj|c:\\data\\chalmers work\\teaching\\intelligent agents, 2025\\src\\tutorials\\tutorialssolution\\tutorial1application\\tutorial1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7BF6C4-67E6-4490-B43D-81B230876045}|Tutorial1Application\\Tutorial1Application.csproj|solutionrelative:tutorial1application\\tutorial1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Tutorial1Application||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7BF6C4-67E6-4490-B43D-81B230876045}|Tutorial1Application\\Tutorial1Application.csproj|c:\\data\\chalmers work\\teaching\\intelligent agents, 2025\\src\\tutorials\\tutorialssolution\\tutorial1application\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tutorial1Form.cs",
+              "DocumentMoniker": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Tutorials\\TutorialsSolution\\Tutorial1Application\\Tutorial1Form.cs",
+              "RelativeDocumentMoniker": "Tutorial1Application\\Tutorial1Form.cs",
+              "ToolTip": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Tutorials\\TutorialsSolution\\Tutorial1Application\\Tutorial1Form.cs",
+              "RelativeToolTip": "Tutorial1Application\\Tutorial1Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:25:41.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tutorial1Application",
+              "DocumentMoniker": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Tutorials\\TutorialsSolution\\Tutorial1Application\\Tutorial1Application.csproj",
+              "RelativeDocumentMoniker": "Tutorial1Application\\Tutorial1Application.csproj",
+              "ToolTip": "C:\\Data\\Chalmers work\\Teaching\\Intelligent agents, 2025\\Src\\Tutorials\\TutorialsSolution\\Tutorial1Application\\Tutorial1Application.csproj",
+              "RelativeToolTip": "Tutorial1Application\\Tutorial1Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T06:25:27.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

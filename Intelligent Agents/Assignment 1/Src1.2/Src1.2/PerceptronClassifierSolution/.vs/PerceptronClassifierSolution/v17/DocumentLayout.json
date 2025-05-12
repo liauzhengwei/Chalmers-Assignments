@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8F92C4-E9BB-4C8D-8F7D-26E877C2578B}|PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj|c:\\users\\liauz\\onedrive\\desktop\\intelligent agents\\assignment 1 liau zheng wei\\assignment 1 liau zheng wei\\src1.2\\src1.2\\perceptronclassifiersolution\\perceptronclassifierapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8F92C4-E9BB-4C8D-8F7D-26E877C2578B}|PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj|solutionrelative:perceptronclassifierapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8F92C4-E9BB-4C8D-8F7D-26E877C2578B}|PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\perceptronclassifierapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8F92C4-E9BB-4C8D-8F7D-26E877C2578B}|PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj|solutionrelative:perceptronclassifierapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\libraries\\nlp\\textclassification\\perceptronclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|solutionrelative:libraries\\nlp\\textclassification\\perceptronclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\libraries\\nlp\\textclassification\\textclassificationdataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|solutionrelative:libraries\\nlp\\textclassification\\textclassificationdataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\Program.cs",
+              "RelativeDocumentMoniker": "PerceptronClassifierApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\Program.cs",
+              "RelativeToolTip": "PerceptronClassifierApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:39:49.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerceptronClassifier.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\TextClassification\\PerceptronClassifier.cs",
+              "RelativeDocumentMoniker": "Libraries\\NLP\\TextClassification\\PerceptronClassifier.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\TextClassification\\PerceptronClassifier.cs",
+              "RelativeToolTip": "Libraries\\NLP\\TextClassification\\PerceptronClassifier.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:52:52.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\MainForm.cs",
+              "RelativeDocumentMoniker": "PerceptronClassifierApplication\\MainForm.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\MainForm.cs",
+              "RelativeToolTip": "PerceptronClassifierApplication\\MainForm.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAkwMoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:52:52.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextClassificationDataItem.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\TextClassification\\TextClassificationDataItem.cs",
+              "RelativeDocumentMoniker": "Libraries\\NLP\\TextClassification\\TextClassificationDataItem.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\TextClassification\\TextClassificationDataItem.cs",
+              "RelativeToolTip": "Libraries\\NLP\\TextClassification\\TextClassificationDataItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:52:52.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

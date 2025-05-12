@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Src1.3",
+    "\\Src1.3\\BayesianClassifierSolution",
+    "\\Src1.3\\BayesianClassifierSolution\\Libraries",
+    "\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP",
+    "\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP\\POS",
+    "\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP\\POS\\Taggers",
+    "\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP\\Properties",
+    "\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP\\TextClassification",
+    "\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP\\Tokenization"
+  ],
+  "SelectedNode": "\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP\\TextClassification\\TextClassifier.cs",
+  "PreviewInSolutionExplorer": false
+}

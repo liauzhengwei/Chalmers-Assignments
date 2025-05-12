@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.1\\Src1.1\\POSTaggingSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20954320-6906-436F-9C82-2FFEE57C82AA}|POSTaggingApplication\\POSTaggingApplication.csproj|c:\\users\\liauz\\onedrive\\desktop\\intelligent agents\\assignment 1 liau zheng wei\\assignment 1 liau zheng wei\\src1.1\\src1.1\\postaggingsolution\\postaggingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20954320-6906-436F-9C82-2FFEE57C82AA}|POSTaggingApplication\\POSTaggingApplication.csproj|solutionrelative:postaggingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20954320-6906-436F-9C82-2FFEE57C82AA}|POSTaggingApplication\\POSTaggingApplication.csproj|c:\\users\\liauz\\onedrive\\desktop\\intelligent agents\\assignment 1 liau zheng wei\\assignment 1 liau zheng wei\\src1.1\\src1.1\\postaggingsolution\\postaggingapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20954320-6906-436F-9C82-2FFEE57C82AA}|POSTaggingApplication\\POSTaggingApplication.csproj|solutionrelative:postaggingapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.1\\Src1.1\\POSTaggingSolution\\libraries\\nlp\\pos\\taggers\\unigramtagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|solutionrelative:libraries\\nlp\\pos\\taggers\\unigramtagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.1\\Src1.1\\POSTaggingSolution\\POSTaggingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "POSTaggingApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.1\\Src1.1\\POSTaggingSolution\\POSTaggingApplication\\Program.cs",
+              "RelativeToolTip": "POSTaggingApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:25:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnigramTagger.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.1\\Src1.1\\POSTaggingSolution\\Libraries\\NLP\\POS\\Taggers\\UnigramTagger.cs",
+              "RelativeDocumentMoniker": "Libraries\\NLP\\POS\\Taggers\\UnigramTagger.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.1\\Src1.1\\POSTaggingSolution\\Libraries\\NLP\\POS\\Taggers\\UnigramTagger.cs",
+              "RelativeToolTip": "Libraries\\NLP\\POS\\Taggers\\UnigramTagger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:22:54.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.1\\Src1.1\\POSTaggingSolution\\POSTaggingApplication\\MainForm.cs",
+              "RelativeDocumentMoniker": "POSTaggingApplication\\MainForm.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.1\\Src1.1\\POSTaggingSolution\\POSTaggingApplication\\MainForm.cs",
+              "RelativeToolTip": "POSTaggingApplication\\MainForm.cs",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAowO0BAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:48:41.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

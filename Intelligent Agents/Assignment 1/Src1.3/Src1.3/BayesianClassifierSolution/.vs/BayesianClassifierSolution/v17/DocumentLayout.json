@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{169A6CA7-9514-4D9A-9834-CFEEF9AD8201}|BayesianClassifierApplication\\BayesianClassifierApplication.csproj|c:\\users\\liauz\\onedrive\\desktop\\src1.3\\src1.3\\bayesianclassifiersolution\\bayesianclassifierapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169A6CA7-9514-4D9A-9834-CFEEF9AD8201}|BayesianClassifierApplication\\BayesianClassifierApplication.csproj|solutionrelative:bayesianclassifierapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169A6CA7-9514-4D9A-9834-CFEEF9AD8201}|BayesianClassifierApplication\\BayesianClassifierApplication.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\bayesianclassifierapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169A6CA7-9514-4D9A-9834-CFEEF9AD8201}|BayesianClassifierApplication\\BayesianClassifierApplication.csproj|solutionrelative:bayesianclassifierapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\libraries\\nlp\\textclassification\\bayesianclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|solutionrelative:libraries\\nlp\\textclassification\\bayesianclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\BayesianClassifierApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BayesianClassifierApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\BayesianClassifierApplication\\Program.cs",
+              "RelativeToolTip": "BayesianClassifierApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:54:18.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BayesianClassifier.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP\\TextClassification\\BayesianClassifier.cs",
+              "RelativeDocumentMoniker": "Libraries\\NLP\\TextClassification\\BayesianClassifier.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\Libraries\\NLP\\TextClassification\\BayesianClassifier.cs",
+              "RelativeToolTip": "Libraries\\NLP\\TextClassification\\BayesianClassifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:35:49.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\BayesianClassifierApplication\\MainForm.cs",
+              "RelativeDocumentMoniker": "BayesianClassifierApplication\\MainForm.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.3\\Src1.3\\BayesianClassifierSolution\\BayesianClassifierApplication\\MainForm.cs",
+              "RelativeToolTip": "BayesianClassifierApplication\\MainForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:23:11.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

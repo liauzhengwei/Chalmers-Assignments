@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\NLP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\NLP.csproj",
+        "projectName": "NLP",
+        "projectPath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\NLP.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj",
+        "projectName": "PerceptronClassifierApplication",
+        "projectPath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\PerceptronClassifierApplication.csproj",
+        "packagesPath": "C:\\Users\\liauz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\liauz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\NLP.csproj": {
+                "projectPath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1\\Src1.2\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\NLP.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "ScottPlot.WinForms": {
+              "target": "Package",
+              "version": "[4.1.36, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

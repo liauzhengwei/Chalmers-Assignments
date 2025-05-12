@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Src1.2",
+    "\\Src1.2\\PerceptronClassifierSolution",
+    "\\Src1.2\\PerceptronClassifierSolution\\Libraries",
+    "\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP",
+    "\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\POS",
+    "\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\TextClassification",
+    "\\Src1.2\\PerceptronClassifierSolution\\Libraries\\NLP\\Tokenization",
+    "\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication",
+    "\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\bin"
+  ],
+  "SelectedNode": "\\Src1.2\\PerceptronClassifierSolution\\PerceptronClassifierApplication\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,15 @@
+========================
+Raw data example:
+========================
+Which of the following moons is NOT one of the Galilean moons?	Ganymede	Callisto	Europa	Dione	D
+
+============================================================
+Processed data (you need to do this, for every question):
+============================================================
+
+Which of the following moons is NOT one of the Galilean moons? A: Ganymede B: Callisto C: Europa D: Dione
+D
+
+
+=========================================================================================================
+As can be seen, the question and the four options are given on one line of text, and the correct answer on a separate line.

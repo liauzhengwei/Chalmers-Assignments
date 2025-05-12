@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A73CD70F-0576-4FAD-886C-89B97AD4C558}|AutocompleteApplication\\AutocompleteApplication.csproj|c:\\users\\liauz\\onedrive\\desktop\\intelligent agents\\assignment 1 liau zheng wei\\assignment 1 liau zheng wei\\src1.4\\src1.4\\autocompletesolution\\autocompleteapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73CD70F-0576-4FAD-886C-89B97AD4C558}|AutocompleteApplication\\AutocompleteApplication.csproj|solutionrelative:autocompleteapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73CD70F-0576-4FAD-886C-89B97AD4C558}|AutocompleteApplication\\AutocompleteApplication.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\autocompleteapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73CD70F-0576-4FAD-886C-89B97AD4C558}|AutocompleteApplication\\AutocompleteApplication.csproj|solutionrelative:autocompleteapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73CD70F-0576-4FAD-886C-89B97AD4C558}|AutocompleteApplication\\AutocompleteApplication.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\autocompleteapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A73CD70F-0576-4FAD-886C-89B97AD4C558}|AutocompleteApplication\\AutocompleteApplication.csproj|solutionrelative:autocompleteapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\libraries\\nlp\\ngrams\\ngram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4D11D6-4189-46E4-B1FC-9F98CC93F2C6}|Libraries\\NLP\\NLP.csproj|solutionrelative:libraries\\nlp\\ngrams\\ngram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\AutocompleteApplication\\MainForm.cs",
+              "RelativeDocumentMoniker": "AutocompleteApplication\\MainForm.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Src1.4\\Src1.4\\AutocompleteSolution\\AutocompleteApplication\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Src1.4\\Src1.4\\AutocompleteSolution\\AutocompleteApplication\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:09:57.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\AutocompleteApplication\\MainForm.cs",
+              "RelativeDocumentMoniker": "AutocompleteApplication\\MainForm.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\AutocompleteApplication\\MainForm.cs",
+              "RelativeToolTip": "AutocompleteApplication\\MainForm.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAAD4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:38:27.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\AutocompleteApplication\\Program.cs",
+              "RelativeDocumentMoniker": "AutocompleteApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\AutocompleteApplication\\Program.cs",
+              "RelativeToolTip": "AutocompleteApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:17:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NGram.cs",
+              "DocumentMoniker": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\Libraries\\NLP\\NGrams\\NGram.cs",
+              "RelativeDocumentMoniker": "Libraries\\NLP\\NGrams\\NGram.cs",
+              "ToolTip": "C:\\Users\\liauz\\OneDrive\\Desktop\\Intelligent Agents\\Assignment 1 Liau Zheng Wei\\Assignment 1 Liau Zheng Wei\\Src1.4\\Src1.4\\AutocompleteSolution\\Libraries\\NLP\\NGrams\\NGram.cs",
+              "RelativeToolTip": "Libraries\\NLP\\NGrams\\NGram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:19:14.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

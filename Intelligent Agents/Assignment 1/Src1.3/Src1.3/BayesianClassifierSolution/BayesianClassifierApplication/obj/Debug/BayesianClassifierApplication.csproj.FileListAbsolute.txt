@@ -1,0 +1,39 @@
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\NLP.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\NLP.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2024\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\NLP.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\NLP.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.AssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\Bayesian.51EF0A57.Up2Date
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2025\Src\Assignment1\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.pdb
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.AssemblyReference.cache
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.MainForm.resources
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.Properties.Resources.resources
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.GenerateResource.cache
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.csproj.CoreCompileInputs.cache
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.exe.config
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.exe
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\BayesianClassifierApplication.pdb
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\NLP.dll
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\bin\Debug\NLP.pdb
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\Bayesian.51EF0A57.Up2Date
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.exe
+C:\Users\liauz\OneDrive\Desktop\Intelligent Agents\Assignment 1\Src1.3\Src1.3\BayesianClassifierSolution\BayesianClassifierApplication\obj\Debug\BayesianClassifierApplication.pdb
