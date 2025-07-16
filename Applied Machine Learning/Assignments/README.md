@@ -1,6 +1,7 @@
-Programming Assignment 1: ML workflow and decision tree
-Programming Assignment 2: Random Forest
-Programming Assignment 3a: Annotating data
-Programming Assignment 3b: Sentiment classification
-Programming Assignment 4: Implementing linear classifiers
-Programming Assignment 5: Image classification
+ #Programming Assignments (PA):
+- 1: ML workflow and decision tree
+- 2: Random Forest
+- 3a: Annotating data
+- 3b: Sentiment classification
+- 4: Implementing linear classifiers
+- 5: Image classification
